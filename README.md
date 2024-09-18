@@ -1,6 +1,6 @@
 
 ## Olá, meu nome é <strong>Kayuan Dias Oliveira!</strong>
-- 🏬 &nbsp;Estágiario de Suporte na VRSoftware.
+- 🏬 &nbsp; Estágiario de Suporte na VRSoftware.
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a ref="https://www.einsteinlimeira.com.br/portal/public/">UniEinstein Limeira</a>.
 - 🌱 &nbsp; Aprendendo mais sobre NodeJs, TypeScript e FullStack.
