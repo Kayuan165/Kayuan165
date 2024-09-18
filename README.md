@@ -11,7 +11,6 @@
 
 </div>
 
-![Snake animation](https://github.com/Kayuan165/Kayuan165/blob/output/github-contribution-grid-snake.svg)
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
