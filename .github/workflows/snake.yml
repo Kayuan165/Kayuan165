@@ -1,0 +1,28 @@
+name: Generate Snake Game
+
+on:
+  schedule: # Executa a cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar Snake Game
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Kayuan165
+          outputs: dist/snake.svg
+
+      - name: Adicionar Snake Game ao repositório
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add -A
+          git commit -m "Atualizar Snake Game"
+          git push
