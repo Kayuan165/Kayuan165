@@ -3,7 +3,7 @@
 
 - 🔭 **Explorando novas tecnologias e desenvolvendo soluções de software.**
 
-- 🌱 **Aprendendo mais sobre NodeJs, TypeScript e FullStack.**
+- 🌱 **Aprendendo mais sobre NodeJs, Angular, TypeScript e FullStack.**
 
 - 🏬 **Estágiario de Suporte na VRSoftware.**
 
