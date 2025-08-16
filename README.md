@@ -5,9 +5,7 @@
 
 - 🌱 **Aprendendo mais sobre NodeJs, Angular, TypeScript e FullStack.**
 
-- 🏬 **Estágiario de Suporte na VRSoftware.**
-
-- 🎓 **Estudando Análise e Desenvolvimento de Sistemas na UniEinstein Limeira.**
+- 🏬 **Especialista de Aplicações Jr na VRSoftware.**
 
 - 📫 Você pode me encontrar em **Kayuandiasoli@gmail.com.br**
 
